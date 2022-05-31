@@ -1,0 +1,26 @@
+id: IE3204D81
+source: https://www.lotsawahouse.org
+source_file: null
+initial_creation_type: input
+imported: '2022-05-31T06:44:30.762600'
+last_modified: '2022-05-31T06:44:30.762606'
+parser: null
+source_metadata:
+  title: Pakchok Dorje Series
+  language: bo
+  description: 'Texts by and about Sé Pakchok Dorje (sras ''phags mchog rdo rje, 1893–1943),
+    a mind emanation of Jamyang Khyentse Wangpo (1820–1892) and one of the six sons
+    of Tokden Śākya Śrī (1853–1919):'
+  volume:
+    f845C:
+      title: Prayer to Sé Pakchok Dorje
+      base_file: f845C.txt
+      order: 1
+      parent: Prayers
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
